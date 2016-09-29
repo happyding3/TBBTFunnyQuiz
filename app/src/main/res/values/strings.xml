@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TBBT Funny Quiz</string>
+    <string name="sheldon">Sheldon</string>
+    <string name="leonard">Leonard</string>
+    <string name="howard">Howard</string>
+    <string name="rajesh">Rajesh</string>
+    <string name="penny">Penny</string>
+    <string name="amy">Amy</string>
+    <string name="kurt">Kurt</string>
+    <string name="doug">Doug</string>
+    <string name="eric">Eric</string>
+    <string name="david_underhill">David Underhill</string>
+    <string name="Justin">Justin</string>
+    <string name="Zack">Zack</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="Q1">1, who is JUST a Master?</string>
+    <string name="Q2">2, who is Pennys ex-boyfriends?</string>
+    <string name="Q3">3,which lead role is played by a real PhD?</string>
+    <string name="Q4">4,do you think sheldon can not solve this equation?</string>
+    <string name="hint_text">please put the answer here</string>
+    <string name="submit">SUBMIT</string>
+    <string name="retry">RETRY</string>
+
+</resources>
